@@ -1,0 +1,11 @@
+.NiggaNames{
+    margin-left: 5%;
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: 18px; 
+    background-image: linear-gradient(to right, rgba(68, 68, 69, 0.644), rgba(190, 203, 255, 0.004));
+    background-color: rgba(0, 0, 0, 0.5); 
+    border: 1px solid rgb(0, 225, 0); 
+    border-bottom-left-radius: 11px; 
+    border-top-left-radius: 11px;
+}
